@@ -1,0 +1,11 @@
+count=10;
+x=500,scroll=-100,type=0,;
+x=200,scroll=-300,type=0,;
+x=800,scroll=-300,type=0,;
+x=200,scroll=-600,type=0,;
+x=800,scroll=-600,type=0,;
+x=500,scroll=-750,type=1,;
+x=600,scroll=-750,type=1,;
+x=600,scroll=-750,type=1,;
+x=400,scroll=-900,type=2,;
+x=600,scroll=-900,type=2,;

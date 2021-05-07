@@ -1,0 +1,93 @@
+﻿  ActorState.cpp
+  HitPoint.cpp
+  Motion.cpp
+  WeaponEnergy.cpp
+  Actor.cpp
+  EnemyBlackHat.cpp
+  EnemyBlueHat.cpp
+  EnemyCrown.cpp
+  EnemyFactory.cpp
+  Enemy.cpp
+  EnemyPurpleHat.cpp
+  EnemySkeleton.cpp
+  EnemyYellowHat.cpp
+  Player.cpp
+  PlayerBlack.cpp
+  PlayerBlue.cpp
+  PlayerPurple.cpp
+  PlayerWhite.cpp
+  Animation.cpp
+  Application.cpp
+  コードを生成中...
+  コンパイル中...
+  Camera.cpp
+  GamePad.cpp
+  main.cpp
+C:\Users\maila\Documents\GitHub\Sh\Sh\Sh\Application\main.cpp(43,80): warning C4100: 'show': 引数は関数の本体部で 1 度も参照されません。
+C:\Users\maila\Documents\GitHub\Sh\Sh\Sh\Application\main.cpp(43,62): warning C4100: 'command_line': 引数は関数の本体部で 1 度も参照されません。
+C:\Users\maila\Documents\GitHub\Sh\Sh\Sh\Application\main.cpp(43,50): warning C4100: 'prev': 引数は関数の本体部で 1 度も参照されません。
+C:\Users\maila\Documents\GitHub\Sh\Sh\Sh\Application\main.cpp(43,30): warning C4100: 'instance': 引数は関数の本体部で 1 度も参照されません。
+  SoundBuffer.cpp
+  Texture.cpp
+  Beam.cpp
+  Bomb.cpp
+  Boomerang.cpp
+  Bullet.cpp
+  BulletFactory.cpp
+  BulletManager.cpp
+  HomingBullet.cpp
+  ThroughBullet.cpp
+  Effect.cpp
+  EffectManager.cpp
+  Event.cpp
+  EventListener.cpp
+  EventMessenger.cpp
+  Game.cpp
+  GameStart.cpp
+  コードを生成中...
+  コンパイル中...
+  Object.cpp
+  ResourceManager.cpp
+  Score.cpp
+  SoundManager.cpp
+  SystemSound.cpp
+  Scene.cpp
+  SceneClear.cpp
+  SceneGame.cpp
+  SceneLoad.cpp
+  SceneOver.cpp
+  SceneResult.cpp
+  SceneSelect.cpp
+  SceneTitle.cpp
+  CharaSelect.cpp
+  Icon.cpp
+  SelectCursor.cpp
+  SelectLogo.cpp
+  StageSelect.cpp
+  Stage.cpp
+C:\Users\maila\Documents\GitHub\Sh\Sh\Sh\Stage\Stage.cpp(157,45): warning C4244: '引数': 'float' から '_Ty' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\maila\Documents\GitHub\Sh\Sh\Sh\Stage\Stage.cpp(118,20): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\maila\Documents\GitHub\Sh\Sh\Sh\Stage\Stage.cpp(123,22): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\maila\Documents\GitHub\Sh\Sh\Sh\Stage\Stage.cpp(127,22): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\maila\Documents\GitHub\Sh\Sh\Sh\Stage\Stage.cpp(323,26): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+  Circle.cpp
+  コードを生成中...
+  コンパイル中...
+  Color.cpp
+  Graphics.cpp
+  Line.cpp
+  Rectangle.cpp
+  Vector2.cpp
+  CircleGun.cpp
+  Mine.cpp
+  NormalGun.cpp
+  RandomGun.cpp
+  ThreeWayGun.cpp
+  Weapon.cpp
+  コードを生成中...
+MSVCRTD.lib(initializers.obj) : warning LNK4098: defaultlib 'msvcrt.lib' は他のライブラリの使用と競合しています。/NODEFAULTLIB:library を使用してください。
+  Sh.vcxproj -> C:\Users\maila\Documents\GitHub\Sh\Sh\Debug\Sh.exe
